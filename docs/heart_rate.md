@@ -1,6 +1,5 @@
 ---
 title: Heart Rate
-parent: Running
 ---
 
 1. TOC

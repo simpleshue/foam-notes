@@ -1,6 +1,5 @@
 ---
 title: Biomechanics
-parent: Anatomy
 ---
 
 

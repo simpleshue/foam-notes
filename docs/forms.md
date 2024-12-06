@@ -1,6 +1,5 @@
 ---
 title: Forms
-parent: Running
 ---
 
 ## High level
